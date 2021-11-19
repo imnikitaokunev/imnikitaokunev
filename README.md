@@ -1,8 +1,8 @@
 ### Hello there, my name is Nikita! ☄️👾🐱‍👤🦄🔮🍭🍇🌀🪐🌠
 
 ## I am a ~~jedi~~ software engineer!
-- 💰 I'm currently working on money management application [yummy-monney].
-- 🌱 I'm currently learning cloud development (Azure, AWS)
+- 💰 Currently working on money management application [yummy-monney] and apartment monitoring Telegram bot.
+- 🌱 Currently learning cloud development (Azure, AWS).
 - 🌌 About me: science fiction addict.
 
 ### Connect with me:
