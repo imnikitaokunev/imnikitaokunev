@@ -1,6 +1,6 @@
-### Hello there, I'm Nikita! ☄️👾🐱‍👤🦄🔮🍭🍇🌀🪐🌠
+### Hello there, my name is Nikita! ☄️👾🐱‍👤🦄🔮🍭🍇🌀🪐🌠
 
-## I'm a developer!
+## I am a ~~jedi~~ software engineer!
 - 💰 I'm currently working on money management application [yummy-monney].
 - 🌱 I'm currently learning cloud development (Azure, AWS)
 - 🌌 About me: science fiction addict.
