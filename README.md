@@ -1,7 +1,7 @@
-### Hello there, my name is Nikita! ☄️👾🐱‍👤🦄🔮🍭🍇🌀🪐🌠
+### ☄️👾🐱‍👤🦄🔮 Hello there, my name is Nikita! 🍭🍇🌀🪐🌠
 
 ## I am a ~~jedi~~ software engineer!
-- 💰 Currently working on money management application [yummy-monney] and apartment monitoring Telegram bot.
+- 💰 Currently working on money management application [yummy-monney] and apartment monitoring Telegram bot [kuzya].
 - 🌱 Currently learning cloud development (Azure, AWS).
 - 🌌 About me: science fiction addict.
 
@@ -23,5 +23,6 @@
 
 
 [linkedin]: https://www.linkedin.com/in/imnikitaokunev/
-[telegram]: t.me/nikitkasss
+[telegram]: https://t.me/nikitkasss
 [yummy-monney]: https://github.com/imnikitaokunev/yummy-money
+[kuzya]: https://github.com/imnikitaokunev/kuzya
