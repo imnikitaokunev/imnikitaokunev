@@ -9,14 +9,9 @@
 
 🔗&nbsp;**Connect with me**
 
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-
-<!-- <a href="https://linkedin.com/in/imnikitaokunev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30px" /></a>] -->
-
-<br/>
-<br/>
+[![](https://img.shields.io/badge/-@imnikitaokunev-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/imnikitaokunev)
+[![](https://img.shields.io/badge/-@imnikitaokunev-%23181717?style=flat-square&logo=github)](https://github.com/imnikitaokunev)
+[![](https://img.shields.io/badge/-Nikita%20Okunev-%231DA1F2?logo=telegram&style=flat-square)](https://t.me/nikitkasss)
 
 🛠️&nbsp;**Languages  and Tools**
 
