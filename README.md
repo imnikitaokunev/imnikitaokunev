@@ -9,7 +9,7 @@
 
 🔗&nbsp;**Connect with me**
 
-[![](https://img.shields.io/badge/-@imnikitaokunev-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/imnikitaokunev)
+<!--[![](https://img.shields.io/badge/-@imnikitaokunev-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/imnikitaokunev)-->
 [![](https://img.shields.io/badge/-@imnikitaokunev-%23181717?style=flat-square&logo=github)](https://github.com/imnikitaokunev)
 [![](https://img.shields.io/badge/-Nikita%20Okunev-%231DA1F2?logo=telegram&style=flat-square)](https://t.me/nikitkasss)
 
