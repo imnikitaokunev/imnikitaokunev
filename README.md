@@ -3,7 +3,8 @@
 ## I am a ~~jedi~~ software engineer!
 - 🐱‍💻 Currently working on money management application [yummy-monney] and apartment monitoring Telegram bot [kuzya].
 - 🚀 Currently learning cloud development (Azure, AWS).
-- 🌌 About me: science fiction addict.
+- 🪐 I like different DevOps stuff.
+- 🌌 About me: science fiction and fantasy addict.
 
 <br/>
 
